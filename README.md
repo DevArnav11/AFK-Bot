@@ -1,6 +1,6 @@
-# 🤖 Slobos & Mr. Juice Aternos 24/7 Hosting Bot
+# 🤖 24/7 Farm AFK Bot
 
-A Minecraft bot that helps keep an Aternos server online 24/7 by automatically joining it using a Mineflayer-based bot. Perfect for SMPs or small multiplayer servers that shut down when no players are online.
+A Minecraft bot that automatically join a server using a Mineflayer-based bot. Perfect for SMPs.
 
 ---
 
@@ -14,9 +14,6 @@ A Minecraft bot that helps keep an Aternos server online 24/7 by automatically j
 ---
 
 ## 🛠️ Requirements
-*   **GitHub Account**
-*   **Aternos Server**
-*   **Render Account** (for 24/7 hosting)
 *   **Common Sense!** 🧠        
 
 ---
@@ -29,20 +26,6 @@ We have made setup super easy! Check out the guide below:
 
 ---
 
-## ⚙️ Usage
-*   **Start**: Just turn on your Aternos server. The bot will join automatically.
-*   **Status**: Visit the Render URL to see a status dashboard.
-*   **Chat**: The bot logs chat to the console.
-
----
-
-## ⚠️ Disclaimer
-This project is not affiliated with Aternos, Mojang, or Microsoft. Use at your own risk. Misuse may violate platform terms of service. This bot does not bypass Aternos queue limits; it only keeps the server active once it is online.
-
----
-
 ## ❤️ Credits
-*   **Slobos (Discord: sloboscc)** — Original creator & idea. (The GOAT 🐐)
-*   **Mr.Juice (Discord: Mr.Juice3046)** — Updates, Guide, & Maintenance.
-
-**License**: MIT License
+*   **Slobos (Discord: sloboscc)** — Original creator.
+*   **VoidChan (Discord: arvoid11)** — Modifier.
