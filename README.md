@@ -20,9 +20,7 @@ A Minecraft bot that automatically join a server using a Mineflayer-based bot. P
 
 ## 🚀 Setup Guide
 
-We have made setup super easy! Check out the guide below:
-
-[**Detailed Google Doc Guide**](https://docs.google.com/document/d/1Fl0dRzP6O30ehp5-QcaB11IobF8I1JJhKUipzCWiCYA/edit?tab=t.0).
+IP-PORT EDIT KARO AUR RENDER SE HOST KRDO SIMPLE 
 
 ---
 
